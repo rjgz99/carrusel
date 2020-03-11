@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#content {
+    text-align: justify;
+    background-color: #F6DA90;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+#menufijo {
+    margin-left: 33%;
+    position: fixed;
+    z-index: 6;
+    background-color: #4E7AF5;
+}
+#content h2 {
+    color: #E91014;
+}
+#content p {
+
+}
+#content p img {
+    float: left;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
